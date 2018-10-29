@@ -1,3 +1,9 @@
+# Moved to OI Wiki
+
+Please visit https://github.com/24OI/OI-wiki !
+
+---
+
 # Awesome-competitive-programming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/imcaffrey/awesome-competitive-programming)
 
 > A curated list for competitive programming.
